@@ -1,6 +1,6 @@
 {
   "name": "@ozgurg/package-json-refresher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "bin/index.js",
   "private": false,
   "license": "MIT",
