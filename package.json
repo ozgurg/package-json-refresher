@@ -1,0 +1,28 @@
+{
+  "name": "@ozgurg/package-json-refresher",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "private": false,
+  "license": "MIT",
+  "bin": {
+    "refresh-package-json": "bin/index.js"
+  },
+  "author": {
+    "email": "ozgurgorgulu54@gmail.com",
+    "name": "Özgür Görgülü",
+    "url": "https://github.com/ozgurg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozgurg/package-json-refresher"
+  },
+  "keywords": [
+    "package.json",
+    "updater",
+    "refresher"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "rimraf": "^3.0.2"
+  }
+}
