@@ -20,7 +20,7 @@ It does the following;
 ## Usage
 
     cd path/to/where/package.json/is
-    refresh-package-json
+    refresh-package-json // or use "rpj"
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -28,5 +28,4 @@ It does the following;
 ## TODO
 - [ ] Tests will be written.
 - [ ] Confirm prompt will be added, and will be bypassed with an argument.
-- [ ] `rpj` will be added as abbreviation of `refresh-package-json`.
 - [ ]  [MAYBE] An argument to force to install previous version of dependencies instead of latest versions of them.
