@@ -24,8 +24,3 @@ It does the following;
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## TODO
-- [ ] Tests will be written.
-- [ ] Confirm prompt will be added, and will be bypassed with an argument.
-- [ ]  [MAYBE] An argument to force to install previous version of dependencies instead of latest versions of them.
