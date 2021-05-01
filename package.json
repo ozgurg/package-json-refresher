@@ -23,7 +23,7 @@
     "refresher"
   ],
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "rimraf": "^3.0.2"
   }
 }
